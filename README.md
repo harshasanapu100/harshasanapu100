@@ -4,7 +4,7 @@
 * 💞️ I’m looking to collaborate on any unqiue idea for implementation
 * :cricket_game: I love watching cricket and fan of Virat Kohli
 * 📫 How to reach me? harshasanapu100@gmail.com / https://www.linkedin.com/in/harsha-vardhan-reddy-sanapureddy-809b5518b/
-* :india: 
+* :india: I Love Indian Army
 
 
 <!--
