@@ -2,8 +2,8 @@
 * 👀 I’m Software developer by profession
 * 🌱 I’m currently learning Azure cloud
 * 💞️ I’m looking to collaborate on any unqiue idea for implementation
-* :cricket_game: I like watching cricket and fan of Virat Kohli
-* 🇮🇳: I love Indian Army
+* :cricket_game: I love watching cricket and fan of Virat Kohli
+* :india: I love Indian Army
 * 📫 How to reach me? harshasanapu100@gmail.com / https://www.linkedin.com/in/harsha-vardhan-reddy-sanapureddy-809b5518b/
 
 
