@@ -1,4 +1,7 @@
-### Hi there 👋
+* 👋 Hi, I’m Harsha Vardhan Reddy
+* 👀 I’m Software developer by profession
+* :cricket_game: I like watching cricket and attending gym
+
 
 <!--
 **harshasanapu100/harshasanapu100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
