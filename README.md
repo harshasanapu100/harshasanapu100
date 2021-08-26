@@ -1,10 +1,11 @@
-* 👋 Hi, I’m Harsha Vardhan Reddy
+* 👋 Hi, I’m Harsha
 * 👀 I’m Software developer by profession
 * 🌱 I’m currently learning Azure cloud
 * 💞️ I’m looking to collaborate on any unqiue idea for implementation
 * :cricket_game: Die hard fan of Virat Kohli
-* 📫 How to reach me? harshasanapu100@gmail.com / https://www.linkedin.com/in/harsha-vardhan-reddy-sanapureddy-809b5518b/
+* :heart_eyes: Admire Chiranjeevi & YS Jagan
 * :india: I Love Indian Army
+* 📫 How to reach me? harshasanapu100@gmail.com / https://www.linkedin.com/in/harsha-vardhan-reddy-sanapureddy-809b5518b/
 
 
 <!--
