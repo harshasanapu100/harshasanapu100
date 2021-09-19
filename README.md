@@ -1,6 +1,5 @@
 * 👋 Hi, I’m Harsha
 * 👀 I’m Software developer by profession
-* 🌱 I’m currently learning Azure cloud
 * 💞️ I’m looking to collaborate on any unqiue idea for implementation
 * :cricket_game: Die hard fan of Virat Kohli
 * :heart_eyes: Admire Chiranjeevi & YS Jagan
