@@ -3,7 +3,7 @@
 * :cricket_game: Die hard fan of Virat Kohli
 * 🔭 I’m currently working as .net core full stack developer
 * :india: I Love Indian Army
-* 📫 How to reach me? harshasanapu100@gmail.com / https://www.linkedin.com/in/harsha-vardhan-reddy-sanapureddy-809b5518b/
+* 📫 How to reach me? harshasanapu100@gmail.com / https://www.linkedin.com/in/harsha-vardhan-reddy-sanapureddy-809b5518b/ +91 9790656899
 
 
 <!--
