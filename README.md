@@ -1,9 +1,11 @@
 * 👋 Hi, I’m Harsha
 * 👀 I’m Software developer by profession
-* :cricket_game: Die hard fan of Virat Kohli
 * 🔭 I’m currently working as .net core full stack developer
+* 💞️ I’m looking to collaborate on any unqiue idea for implementation
 * :india: I Love Indian Army
-* 📫 How to reach me? harshasanapu100@gmail.com / https://www.linkedin.com/in/harsha-vardhan-reddy-sanapureddy-809b5518b/ +91 9790656899
+* :cricket_game: Die hard fan of Virat Kohli
+* 📫 How to reach me? harshasanapu100@gmail.com / https://www.linkedin.com/in/harsha-vardhan-reddy-sanapureddy-809b5518b/
+* :iphone: +91 9790656899
 
 
 <!--
