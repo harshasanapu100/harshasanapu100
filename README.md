@@ -3,7 +3,7 @@
 * 🔭 I’m currently working as .net core azure full stack developer
 * :cloud: Cloud Enthusiast (Azure)
 * 📫 How to reach me? https://www.linkedin.com/in/harsha-vardhan-reddy-sanapureddy-809b5518b/
-* :email:harshasanapu100@gmail.com
+* :email: harshasanapu100@gmail.com
 * :iphone: +91 9790656899
 * :smiley::smiley: Keep Smiling :smiley::smiley:
 
