@@ -1,9 +1,7 @@
 * 👋 Hi, I’m Harsha
 * 👀 I’m Software developer by profession
 * 🔭 I’m currently working as .net core azure full stack developer
-* 💞️ I’m looking to collaborate on any unqiue idea for implementation
-* :india: I Love Indian Army
-* :cloud: Cloud Enthusiast
+* :cloud: Cloud Enthusiast (Azure)
 * 📫 How to reach me? harshasanapu100@gmail.com / https://www.linkedin.com/in/harsha-vardhan-reddy-sanapureddy-809b5518b/
 * :iphone: +91 9790656899
 * :smiley::smiley: Keep Smiling :smiley::smiley:
