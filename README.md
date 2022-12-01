@@ -5,7 +5,6 @@
 * :link: https://www.linkedin.com/in/harsha-vardhan-reddy-sanapureddy-809b5518b/
 * :email: harshasanapu100@gmail.com
 * :iphone: +91 9790656899
-* :smiley::smiley: Keep Smiling :smiley::smiley:
 
 
 <!--
